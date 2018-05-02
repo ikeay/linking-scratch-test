@@ -1,0 +1,2 @@
+# linking-scratch-test
+Project Linkingで開発されたLinkingデバイスとScratchで遊んでみた
