@@ -9,4 +9,4 @@ Project Linkingで開発されたLinkingデバイスとScratchで遊んでみた
 	- パンチしたらかっこいい音が出るグローブ
 
 ## 記事
-- Comming Soon!
+- Coming Soon!
